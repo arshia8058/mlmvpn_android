@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.mlmvpn.scanner'
+    namespace 'com.mlmvpn.scanner.copy'
     compileSdk 34
     buildToolsVersion "35.0.0"
 
     defaultConfig {
-        applicationId "com.mlmvpn.scanner"
+        applicationId "com.mlmvpn.scanner.copy"
         minSdk 24
         targetSdk 34
         versionCode 74
